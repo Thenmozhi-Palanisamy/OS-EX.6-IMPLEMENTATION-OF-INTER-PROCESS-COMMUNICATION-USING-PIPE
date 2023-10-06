@@ -43,7 +43,7 @@ return 0;
 ```
 
 OUTPUT:
-![image](https://github.com/Thenmozhi-Palanisamy/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/95198708/68ead64f-5d98-4411-a8c4-64074d775a1f)
+![os 1](https://github.com/Thenmozhi-Palanisamy/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/95198708/3236eb73-454b-4ac7-8f48-5d8f5e7881a0)
 
 
 RESULT:
